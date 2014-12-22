@@ -11,4 +11,3 @@ Description: Stanford Orbis is a network model of
 Depends: R (>= 3.1.2)
 License: CC-By
 LazyData: true
-T
