@@ -1,8 +1,12 @@
 Package: rorbium
-Title: What the package does (one line)
+Title: http://stanford.orbis.edu/ data as an R package. 
 Version: 0.1
-Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (one paragraph)
+Authors@R: "Sebastian Heath <first.last@example.com> [aut, cre]"
+Description: Orbis (http://stanford.orbis.edu/) is a network model of
+ connectivity in the Roman empire. This R package is an initial attempt
+ to provide that data in a form easily useable by students and others.
+ It's very preliminary. Please note that orbis data is downloadable from
+ http://purl.stanford.edu/mn425tz9757 . See that page for CC-BY licensing.
 Depends: R (>= 3.1.2)
-License: What license is it under?
+License: CC-By 
 LazyData: true
